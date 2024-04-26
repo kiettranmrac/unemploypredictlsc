@@ -91,7 +91,7 @@ UF = function (C, D, ct ) {
 		}
 		S[is.na(S)] <- 0
 	# S # uncomment to see the corresponding value
-	eigen(S)$values # uncomment to see the corresponding value
+	# eigen(S)$values # uncomment to see the corresponding value
 		
 	# Calculate the value for the other years
 		# First, calculate the initial vector
